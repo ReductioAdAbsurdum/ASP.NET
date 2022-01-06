@@ -84,8 +84,8 @@ using BlazorServer.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\Users\Monster\Desktop\ASP.NET\SampleWebApps\BlazorServer\Pages\Counter.razor"
-       
+#line 10 "C:\Users\Monster\Desktop\ASP.NET\SampleWebApps\BlazorServer\Pages\Counter.razor"
+ 
     private int currentCount = 0;
 
     private void IncrementCount()
