@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPages", "RazorPages\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{33AC71CA-1841-484A-91E0-EC38F9268776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{A89272CB-569C-478F-8BDB-7B5FAD75A5FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33AC71CA-1841-484A-91E0-EC38F9268776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33AC71CA-1841-484A-91E0-EC38F9268776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33AC71CA-1841-484A-91E0-EC38F9268776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89272CB-569C-478F-8BDB-7B5FAD75A5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89272CB-569C-478F-8BDB-7B5FAD75A5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89272CB-569C-478F-8BDB-7B5FAD75A5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89272CB-569C-478F-8BDB-7B5FAD75A5FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
