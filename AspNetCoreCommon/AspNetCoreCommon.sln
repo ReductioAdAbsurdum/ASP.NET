@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DinerDB", "DinerDB\DinerDB.sqlproj", "{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB879CB-8244-45A9-BB72-E730B7D2EA0D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C90CA7-0A4C-4BC5-A543-8646212E675C}
+	EndGlobalSection
+EndGlobal

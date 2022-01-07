@@ -1,0 +1,10 @@
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\bin\Debug\DinerDB.dacpac
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\bin\Debug\DinerDB.dll
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\bin\Debug\DinerDB.pdb
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\DinerDB.sqlproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\Model.xml
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\refactor.xml
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\postdeploy.sql
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\predeploy.sql
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\DinerDB.dll
+C:\Users\Monster\Desktop\ASP.NET\AspNetCoreCommon\DinerDB\obj\Debug\DinerDB.pdb
